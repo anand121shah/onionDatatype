@@ -1,5 +1,3 @@
-Certainly! Here's the README file content in Markdown format:
-
 ```markdown
 # Onion Data Type
 
