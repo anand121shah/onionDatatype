@@ -1,4 +1,3 @@
-```markdown
 # Onion Data Type
 
 The Onion data type is a hierarchical structure that allows for nesting subsets and performing statistical operations on the elements within those subsets. It provides flexibility in managing and analyzing data with various levels of granularity.
