@@ -67,5 +67,3 @@ Contributions to the Onion data type are welcome! If you encounter any issues or
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-Feel free to copy the Markdown content and use it in your project's README file.
