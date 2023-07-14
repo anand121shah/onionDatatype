@@ -66,4 +66,3 @@ Contributions to the Onion data type are welcome! If you encounter any issues or
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
